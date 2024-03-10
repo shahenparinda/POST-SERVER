@@ -1,1 +1,1 @@
-web: python SHAHEN-POST.py
+web: python SATISH-POST.py
